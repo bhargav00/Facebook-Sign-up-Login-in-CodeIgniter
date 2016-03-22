@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "fbci";
+$route['default_controller'] = "oauth_login";
 $route['404_override'] = '';
 
 
